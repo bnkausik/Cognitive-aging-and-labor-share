@@ -7,7 +7,8 @@ tf_m.py: tensorflow python code
 
 klems-mine-2013.zip: raw economic data
 
-data folder: culled input data for python
+data: culled input data for python
+
 longtail_cognitive_age_charts.zip:  chart spreadsheets for paper
 
 
