@@ -5,7 +5,8 @@ loop.sh: loop shell script for mac
 
 tf_m.py: tensorflow python code
 
-klems-mine-2013.zip: raw economic data via Autor et al (2020b)
+klems-mine-2013.zip: raw economic data via Autor et al (2020b) \n
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6LVZM7
 
 data: culled input data for python
 
